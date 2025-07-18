@@ -73,3 +73,6 @@ ssh -T git@github.com
 
 ✅ Успешный ответ:  
 `Hi username! You've successfully authenticated...`
+
+[[Git Настройки]]
+[[Arch Linux Database]]

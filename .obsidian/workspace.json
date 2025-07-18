@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Linux/Утилиты/SSH.md",
+                "file": "Linux/Arch Linux/Утилиты/Git Настройки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Git Настройки"
             }
           }
         ]
@@ -170,12 +170,14 @@
   },
   "active": "1595a80ef7e78310",
   "lastOpenFiles": [
+    "Linux/Arch Linux/Утилиты/Установка yay.md",
+    "Linux/Arch Linux/Утилиты/Установка и настройка Kitty.md",
+    "Linux/Arch Linux/Утилиты/Git Настройки.md",
     "Linux/Arch Linux/Arch Linux Database.md",
     "Linux/Arch Linux/Утилиты/SSH.md",
+    "гитхаб.md",
     "Linux/Arch Linux/Hyprland/Настройки hyprpaper.conf.md",
     "Linux/Arch Linux/Hyprland/Настройка hyprland.conf.md",
-    "Linux/Arch Linux/Утилиты/Установка и настройка Kitty.md",
-    "Linux/Arch Linux/Утилиты/Установка yay.md",
     "Linux/Linux Database.md",
     "Linux/Arch Linux/Hyprland",
     "Linux/Arch Linux/Утилиты",
