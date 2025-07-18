@@ -20,3 +20,6 @@ ls /usr/share/icons/Bibata-Modern-Ice
 exec = hyprctl setcursor Bibata-Modern-Ice 20
 ```
 
+---
+
+[[Arch Linux Database]]
