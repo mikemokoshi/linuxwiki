@@ -30,3 +30,6 @@
 [[Настройка hyprland.conf#9. Windows and Workspaces]]
 
 [[Настройки hyprpaper.conf]]
+
+[[Waybar]]
+

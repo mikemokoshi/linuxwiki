@@ -58,76 +58,76 @@ sudo pacman -S ttf-nerd-fonts-symbols
 
 ```css
 * {
-font-family: 'JetBrainsMono Nerd Font', 'Symbols Nerd Font';
-font-weight: bold;
-font-size: 13.2px; /* -15% */
-min-height: 0px;
-border: none;
-border-radius: 0px;
+	font-family: 'JetBrainsMono Nerd Font', 'Symbols Nerd Font';
+	font-weight: bold;
+	font-size: 13.2px; /* -15% */
+	min-height: 0px;
+	border: none;
+	border-radius: 0px;
 }
 
 window#waybar {
-background: transparent;
+	background: transparent;
 }
 
 .modules-left {
-margin-left: 20px; /* -15% */
-margin-top: 10px;
+	margin-left: 20px; /* -15% */
+	margin-top: 10px;
 }
 
 .modules-center {
-margin-top: 10px;
+	margin-top: 10px;
 }
 
 .modules-right {
-margin-right: 17px; /* -15% */
-background: #181825;
-border-radius: 6.8px; /* -15% */
-margin-top: 10px;
+	margin-right: 17px; /* -15% */
+	background: #181825;
+	border-radius: 6.8px; /* -15% */
+	margin-top: 10px;
 }
 
 #custom-archicon {
-color: #b4befe; /* Основной цвет */
-border-right: 1px solid;
-border-image: linear-gradient(
-45deg,
-#b4befe 0%,
-#a5b0ff 50%,
-#96a2ff 100%,
-#96a2ff 100%
-)
-1;
-border-radius: 8px;
-padding: 3px 15px 0 0;
-margin: 4px 10px 4px 0;
-font-family: 'JetBrains Mono';
-font-weight: bold;
-font-size: 28px;
+	color: #b4befe; /* Основной цвет */
+	border-right: 1px solid;
+	border-image: linear-gradient(
+		45deg,
+		#b4befe 0%,
+		#a5b0ff 50%,
+		#96a2ff 100%,
+		#96a2ff 100%
+		)
+	1;
+	border-radius: 8px;
+	padding: 3px 15px 0 0;
+	margin: 4px 10px 4px 0;
+	font-family: 'JetBrains Mono';
+	font-weight: bold;
+	font-size: 28px;
 }
 
 #workspaces {
-padding: 0px 3px;
-margin-right: 30px;
+	padding: 0px 3px;
+	margin-right: 30px;
 }
 
 #workspaces button {
-all: unset;
-padding: 0px 3px;
-color: rgba(180, 190, 254, 0.4);
-transition: all 0.2s ease;
+	all: unset;
+	padding: 0px 3px;
+	color: rgba(180, 190, 254, 0.4);
+	transition: all 0.2s ease;
 }
 
 #workspaces button:hover {
-color: rgba(0, 0, 0, 0);
-border: none;
-text-shadow: 0px 0px 1.5px rgba(180, 190, 254, 0.7);
-transition: all 1s ease;
+	color: rgba(0, 0, 0, 0);
+	border: none;
+	text-shadow: 0px 0px 1.5px rgba(180, 190, 254, 0.7);
+	transition: all 1s ease;
 
 }
 
 #workspaces button.active {
-color: #b4befe;
-border: none;
+	color: #b4befe;
+	border: none;
 }
 ```
 
