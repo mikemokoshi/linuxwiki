@@ -11,6 +11,7 @@ nano .config/hypr/hyprland.conf
 [[#6. Look and Feel]]
 [[#7. Input]]
 [[#8. Keybindings]]
+[[#9. Windows and Workspaces]]
 
 ---
 
